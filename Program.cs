@@ -1,6 +1,6 @@
 ﻿
 
-// string hariç , her class referans tiplidir
+// string bir  class'tır ancak class olamsına rağmen değer tipli davranışı sergiler, her class referans tiplidir
 Ogrenci o = new Ogrenci();
 Console.WriteLine("Id : {0}",o.Id);
 Console.WriteLine("Ad : {0}",o.Ad);
@@ -26,4 +26,5 @@ static void AdDegistir1(string ad){
     ad="Yavuz";
 }
 
-// 
+// string tipi referans tipli oolamsına rağmen, değer atama ve metotlara parametre geçme işlemierinde, değer tipli gibi davranacaktır!!!!!
+

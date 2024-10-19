@@ -12,3 +12,4 @@
 /Users/emrahelis/Class-Degerlendirme/obj/Debug/net8.0/Class-Degerlendirme.pdb
 /Users/emrahelis/Class-Degerlendirme/obj/Debug/net8.0/Class-Degerlendirme.genruntimeconfig.cache
 /Users/emrahelis/Class-Degerlendirme/obj/Debug/net8.0/ref/Class-Degerlendirme.dll
+/Users/emrahelis/Class-Degerlendirme/obj/Debug/net8.0/Class-Degerlendirme.sourcelink.json
