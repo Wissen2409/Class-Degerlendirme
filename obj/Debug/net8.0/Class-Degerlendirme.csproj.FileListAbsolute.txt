@@ -1,0 +1,14 @@
+/Users/emrahelis/Class-Degerlendirme/bin/Debug/net8.0/Class-Degerlendirme
+/Users/emrahelis/Class-Degerlendirme/bin/Debug/net8.0/Class-Degerlendirme.deps.json
+/Users/emrahelis/Class-Degerlendirme/bin/Debug/net8.0/Class-Degerlendirme.runtimeconfig.json
+/Users/emrahelis/Class-Degerlendirme/bin/Debug/net8.0/Class-Degerlendirme.dll
+/Users/emrahelis/Class-Degerlendirme/bin/Debug/net8.0/Class-Degerlendirme.pdb
+/Users/emrahelis/Class-Degerlendirme/obj/Debug/net8.0/Class-Degerlendirme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Class-Degerlendirme/obj/Debug/net8.0/Class-Degerlendirme.AssemblyInfoInputs.cache
+/Users/emrahelis/Class-Degerlendirme/obj/Debug/net8.0/Class-Degerlendirme.AssemblyInfo.cs
+/Users/emrahelis/Class-Degerlendirme/obj/Debug/net8.0/Class-Degerlendirme.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Class-Degerlendirme/obj/Debug/net8.0/Class-Degerlendirme.dll
+/Users/emrahelis/Class-Degerlendirme/obj/Debug/net8.0/refint/Class-Degerlendirme.dll
+/Users/emrahelis/Class-Degerlendirme/obj/Debug/net8.0/Class-Degerlendirme.pdb
+/Users/emrahelis/Class-Degerlendirme/obj/Debug/net8.0/Class-Degerlendirme.genruntimeconfig.cache
+/Users/emrahelis/Class-Degerlendirme/obj/Debug/net8.0/ref/Class-Degerlendirme.dll
